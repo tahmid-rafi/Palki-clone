@@ -1,0 +1,642 @@
+*{
+     font-family: Mongolian Baliti;
+ }
+ 
+ body{
+     background-color: #D82062;
+ }
+         /*  Navber  */
+ #back_ground{
+     background-image: url(Gallery/wedding-rings-rose-rings-2284153.jpg);
+     background-color: #030202;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 670px;
+     object-fit: cover;
+ }
+ 
+ 
+ 
+ .navbar{
+     background-color: #0000007A;
+     height: 140px;
+     border-bottom: 1.5px dotted whitesmoke;
+     margin-top: -20px;
+ }
+ 
+ .nav-logo{
+     height: 112.22px;
+     width:345.71px;
+     align-items: center;
+ }
+ .logo{
+     background-image: url(Gallery/Untitled-design-4.png);
+     background-size: cover;
+     height: inherit;
+     width: 100%;
+     margin-top: 6px;
+     align-items: center;
+     display: flex;
+     margin-left: 400px;
+     margin-right: 20px;
+     margin-bottom: 20px;
+     object-fit: cover;
+ }
+ 
+ .navbar-toggle{
+     margin-top: 35px;
+    .icon-bar{
+    background-color: #f3f3f3;
+     }
+ }
+ 
+ div ul li a{
+     margin-top: 30px;
+     color: #ffffff99;
+     font-weight: 15px;
+     margin-top: 50px;
+ }
+ 
+ #box{
+     border: 2px solid wheat;
+     height: 40px;
+     width: 95px;
+     text-align: center;
+     padding-top: 7px;
+     margin-top: -10px;
+ }
+ 
+ 
+ 
+ h1{
+     color: white;
+     font-size: 100px;
+     text-align: center;
+     margin-top: 180px;
+     font-family:Impact, fantasy;
+ }
+ 
+ 
+ #head{
+     text-align: center;
+     margin-top: 100px;
+     font-weight: bolder;
+     font-size: 45px;
+     color: black;
+     font-family: Georgia, serif;
+ }
+ #head02{
+     text-align: center;
+     font-size: 18px;
+     color: black;
+     font-family: Trebuchet MS, sans-serif;
+ }
+ 
+                 /*  Regiter */
+ 
+ #regi-box{
+     font-size: 70px;
+     margin-top: 180px;
+     font-family: initial;
+ }
+ #regi-div{
+     background-color: #030202;
+     width: 1250px;
+     height: 564.84px;
+     margin-top: 90px;
+     margin-left: 350px;
+ }
+ 
+ .regi {
+     background-color: transparent;
+     color: #fff;
+     padding: 15px 3% 15px;
+     border: 2px solid white;
+     font-size: 15px;
+    font-family:  "Gill Sans", sans-serif;
+     font-weight: bolder;
+     cursor: pointer;
+     margin-left: 40%;
+     margin-top: 50px;
+     width: 260px;
+     height: 56px;
+ 
+   }
+ 
+ .regi:hover{
+     background-color: #D82062;
+     color: #EFB929;
+   }
+ 
+             /*  Footer */
+ 
+   footer{
+     background-image: url(footer-background-image@2x-1.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 530px;
+     margin-top: 150px;
+     object-fit: cover;
+     color: white;
+   }
+ 
+   #footer{
+     padding-top: 70px;
+ 
+ 
+   }
+ 
+   .contact{
+     color: aliceblue ;
+     border-bottom: 1px solid aliceblue;
+     font-weight: bold;
+     font-size: 16px;
+   }
+ 
+ .contact:hover{
+     color: #D82062;
+ }
+ 
+  .foot-logo{
+     height: 112.22px;
+     width:345.71px;
+     align-items: center;
+ }
+ 
+ .footer-logo{
+     background-image: url(Gallery/Untitled-design-4.png);
+     background-size: cover;
+ 
+     width: 100%;
+     margin-top: 6px;
+     display: flex;
+ 
+ 
+     object-fit: cover;
+ 
+ }
+ 
+ hr{
+     border: 0.1px dotted gray;
+ 
+ }
+ 
+ 
+ /*       stories       */
+ 
+ #STORIES{
+     background-image: url(STORIES/wedding-wedding-rings-oath-997634.jpg);
+     background-color: #030202;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 650px;
+     object-fit: cover;
+ }
+ 
+ .Rasel{
+     color: #030202;
+     font-weight: bolder;
+     font-size: 32px;
+     font-family: Mongolian Baliti;
+     margin-top: -28px;
+     padding-left: 41px;
+ }
+ 
+ .Momo{
+     color: #030202;
+     padding-left: 41px;
+     margin-top: -12px;
+     font-size: 16px;
+ }
+ 
+ .stories{
+     background-color: #030202;
+     width: 207px;
+     height: 56px;
+     color: #fff;
+     padding: 20px 20px 20px;
+     border: none;
+     font-weight: bold;
+     font-size: 16px;
+     cursor: pointer;
+     margin-left: 41px;
+     cursor: pointer;
+ }
+ 
+ .stories:hover{
+     background-color:#EFB929;
+     color:#030202 ;
+ }
+ 
+ 
+                         /*     video     */
+ 
+ #Videos{
+     background-image: url(72.jpg);
+     background-color: #030202;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 650px;
+     object-fit: cover;
+ }
+ 
+                 /*     Blog    */
+ 
+ #BLOG{
+     background-image: url(Blog/hero-image-blog@2x-1024x476.jpg);
+     background-color: #030202;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 760px;
+     object-fit: cover;
+ }
+ 
+ .Blog{
+     color: #030202;
+     font-weight: bolder;
+     font-size: 25px;
+     font-family: Mongolian Baliti;
+     margin: 10px, 0px, 20px;
+     text-decoration: none;
+ }
+ 
+ .blo-box{
+     background-color: aliceblue;
+     width: 100%;
+     height: 500px;
+     margin-top: -20px;
+ }
+ .Blog:hover{
+     color: #D82062;
+     text-decoration: none;
+ }
+ 
+ .blo-box p {
+     color: #030202;
+     font-size: 20px;
+     font-weight: 25px;
+ }
+ 
+ 
+ 
+             /*     Contact    */
+ #CONTACT{
+     background-image: url(Contact/hero-image-contact@2x-scaled-1.webp);
+     background-color: #030202;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 760px;
+     object-fit: cover;
+ 
+ }
+ 
+ 
+ .log{
+     font-size: 50px;
+ }
+ 
+ iframe{
+     width: 637px;
+     height: 700px;
+ }
+ 
+ .massage{
+     background-color: transparent;
+     border: transparent;
+     border-bottom: 2px solid wheat;
+     width: 100%;
+     height: 80px;
+     outline: none;
+ }
+ .massage::placeholder, textarea::placeholder {
+     color:#0000007A;
+     font-size: 22px;
+   }
+   .massage:focus {
+     color: #030202;
+     border: transparent;
+     font-size: 20px;
+   }
+ 
+   table tr td textarea {
+     font-size: 20px;
+     height: 100px;
+     width: 100%;
+     background-color: transparent;
+     outline: none;
+     border: none;
+     border-bottom: 2px solid wheat;
+   }
+ 
+ 
+   .con-btn{
+     background-color: #030202;
+     width: 200px;
+     height: 50px;
+     margin-top: 50px;
+     color: white;
+     border: none;
+     font-size: 15px;
+     font-family:  "Gill Sans", sans-serif;
+     font-weight: bold;
+     padding: 15px 3% 15px;
+     transition: color 0.2s, background-color 0.2s;
+   }
+ 
+   .con-btn:hover{
+     background-color: #EFB929;
+     color: #030202;
+   }
+ 
+                     /*     About Us    */
+ 
+ 
+ #About{
+ 
+         background-image: url(About/WhatsApp-Image-2023-09-11-at-6.46.55-PM.jpeg);
+         background-color: #030202;
+         background-size:cover;
+         object-fit:fill;
+         background-repeat: no-repeat;
+         width: 100%;
+         height: 760px;
+         object-fit: cover;
+ }
+ 
+ 
+ .About{
+     color: #030202;
+     font-weight: bolder;
+     font-size: 40px;
+     font-family: Mongolian Baliti;
+     margin: 20px 20px;
+ 
+ }
+ 
+ .ABOUT-box{
+     background-color: aliceblue;
+     width: 360px;
+     height: 350px;
+     margin-top: -30px;
+ }
+ 
+ #about-office{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: auto;
+     padding-left: -10px;
+     column-gap: -1px;
+ 
+ }
+ 
+ .success{
+     background-color: white;
+     width: 100%;
+     height: 700px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: -10px;
+     gap: 20px;
+ }
+ 
+ .success-rat{
+     width: 400px;
+     height: 601px;
+ }
+ 
+ .success-rat p {
+     color: #030202;
+     font-size: 19px;
+     font-weight: 50px;
+     margin-top: -20px;
+ }
+ 
+                     /*           REGISTER           */
+ 
+ #REGISTER{
+     background-image: url(register/wedding-ring-rings-marriage-4886444.jpg);
+         background-color: #030202;
+         background-size:cover;
+         object-fit:fill;
+         background-repeat: no-repeat;
+         width: 100%;
+         height: 860px;
+         object-fit: cover;
+ }
+ 
+ .from{
+     margin-top: 100px;
+     background-color: white;
+     width: 980px;
+     height: 634px;
+     border-radius: 10px;
+ }
+ 
+ 
+ #register-form input{
+     width: 100%;
+     outline: none;
+     border: 1px solid #D82062;
+     border-radius: 10px;
+     height: 50px;
+     background-color: #ECECEC;
+     font-size: 18px;
+     color: #030202;
+ 
+ }
+ 
+ .radio-group {
+     display: flex;
+     flex-wrap: wrap;
+     margin-top: 40px;
+   }
+ 
+ 
+   .radio-group input[type="radio"] {
+     display: none;
+   }
+ 
+   .radio-group label {
+     display: inline-block;
+     width: 15px;
+     height: 15px;
+     margin-right: 10px;
+     cursor: pointer;
+     background-color: #D82062;
+ 
+   }
+ 
+   .radio-group input[type="radio"]:checked + label {
+    border-color: #030202;
+   }
+ 
+   .radio-group input[type="radio"]:checked + label::before {
+     content: "";
+     display: block;
+     width: 8px;
+     height: 8px;
+     background-color: black;
+     margin: 4px
+ 
+   }
+ 
+   .radio_p{
+     margin-left: -10px;
+   }
+ 
+ 
+   .reg-btn{
+     background-color: #030202;
+     width: 150px;
+     height: 50px;
+     margin-top: 50px;
+     color: white;
+     border: none;
+     font-size: 20px;
+     font-weight: bold;
+     padding: 10px;
+     transition: color 0.2s, background-color 0.2s;
+   }
+ 
+   .reg-btn:hover{
+     background-color: #EFB929;
+     color: #030202;
+   }
+ 
+                     /*           Service          */
+     #SERVICE{
+         background-image: url(service/wedding-reception-table-setting-flowers-1284245.jpg);
+         background-color: #030202;
+         background-size:cover;
+         object-fit:fill;
+         background-repeat: no-repeat;
+         width: 100%;
+         height: 860px;
+         object-fit: cover;
+ }
+ 
+ .service-time{
+     background-color: white;
+     width: 380px;
+     height: 700px;
+     padding: 100px 50px;
+ }
+ 
+ .service-box{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     column-gap: 30px;
+ }
+ 
+ .service-det{
+     background-color: white;
+     width: 690px;
+     height: 840px;
+     padding-top: 100px;
+     margin-top: 50px;
+ }
+ 
+ .service-math{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ #ser-btn{
+     background-color: #030202;
+     width: 150px;
+     height: 50px;
+     margin-top: 50px;
+     color: white;
+     border: none;
+     font-size: 15px;
+     font-weight: bold;
+     padding: 15px;
+     transition: color 0.2s, background-color 0.2s;
+     font-family: Optima, sans-serif;
+ }
+ 
+ #ser-btn:hover{
+     background-color: #EFB929;
+     color: #030202;
+ }
+ 
+ .service-new{
+     background-color: white;
+     width: 690px;
+     height: 600px;
+     padding-top: 100px;
+     margin-top: 50px;
+ }
+ 
+ #service_head{
+     font-size: 38px;
+     font-weight: bolder;
+     color: #030202;
+     margin-top: 50px;
+ }
+ 
+                     /*          HOME            */
+ 
+     #HOME{
+         background-image: url(home/wedding.jpg);
+             background-color: #030202;
+             background-size:cover;
+             object-fit:fill;
+             background-repeat: no-repeat;
+             width: 100%;
+             height: 780px;
+             object-fit: cover;
+     }
+ 
+     .s-01{
+         background-image: url(home/hero-image-gallery@2x.jpg);
+         background-size: cover;
+         background-repeat: no-repeat;
+         width: 510px;
+         height: 646px;
+         border-radius: 80px 0 80px 0;
+         float: right;
+     }
+ 
+     #home-story{
+     width: 100%;
+     height: 700px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 180px;
+     position: relative;
+     column-gap: 370px;
+     }
+ 
+     .s-02{
+         position: absolute;
+         top: 90px;
+     }
+ 
+     .home-box img{
+         object-fit: cover;
+         border-radius: 20px;
+         box-shadow: -3px 10px 20px;
+ 
+     }
+ 
+     .home-box{
+         transition: 0.5s;
+         column-gap: 10px;
+     }
+ 
+     .home-box:hover{
+         transform: scale(1.1);
+         z-index: 2;
+     }
